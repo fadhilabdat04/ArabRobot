@@ -1,5 +1,5 @@
 {
-      "name": "Yins Robot",
+      "name": "Arab Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "yinsrobot"
       ],
     
-   "logo":    "https://telegra.ph/file/64f4b1e3ab6d6911447d2.jpg",  
-   "repository": "https://github.com/AyiinXd/YinsRobot",
+   "logo":    "https://telegra.ph//file/8e4d2922fa48aff2be56d.jpg",  
+   "repository": "https://github.com/fadhilabdat04/ArabRobot",
    "stack": "heroku-22",
    "addons": [
           {
@@ -65,7 +65,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "YinzRobot"
+         "value": "ArabRobot"
       },
 
       "BOT_ID": {
@@ -75,12 +75,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "AyiinXd"
+         "value": "Arabnihnge"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "AyiinXdSupport"
+         "value": "Cehasiarab"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -167,7 +167,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/AyiinSupport/100"
+         "value": "https://telegra.ph//file/4bf0c32bd00d42d203f66.jpg"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",

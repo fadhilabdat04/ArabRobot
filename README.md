@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://telegra.ph/file/64f4b1e3ab6d6911447d2.jpg">
+  <img src="https://telegra.ph//file/8e4d2922fa48aff2be56d.jpg">
 </p>
 
-<h4><p align="center"> YINS ROBOT </p></h4>
+<h4><p align="center"> ARAB ROBOT </p></h4>
 
-<p align="center">Yins Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">REPO BOT MANAGE FULL CLONE YINS ROBOT.</p>
 
 <p align="center">
 <a href="https://t.me/YinsRobot"> <img src="https://img.shields.io/badge/Yinz-Robot-blue?&logo=telegram" alt="Yinz on Telegram" /> </a><br>
@@ -27,6 +27,7 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 - DaisyX 
 - WilliamButcherBot
 - AyiinXd
+- Fadhilabdat04
 ```
 
 ### TUTORIAL LINK DEPLOY
